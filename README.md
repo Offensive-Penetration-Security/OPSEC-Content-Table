@@ -1,6 +1,6 @@
 # OPSEC-Content-Table
 
-```
+```xml
 - Application scanning 
 - Threat detections
 - Threat analysis
