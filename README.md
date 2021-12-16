@@ -2,10 +2,16 @@
 
 ```json
 - [Application scanning] 
+
+- [Vulnerability assessment]
+
 - [Threat detections]
+
 - [Threat analysis]
-- [Vulnerability assessment] 
+ 
 - [Penetration testing]
+
 - [Incident response]
+
 - [Digital Forensics]
 ```
