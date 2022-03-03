@@ -5,10 +5,10 @@
 
 - [Threat detections]
 
+- [Threat analysis]
+
 - [Vulnerability assessment]
 
-- [Threat analysis]
- 
 - [Penetration testing]
 ```
 -----------------------------------
