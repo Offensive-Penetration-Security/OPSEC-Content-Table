@@ -3,9 +3,9 @@
 ```json
 - [Application scanning] 
 
-- [Vulnerability assessment]
-
 - [Threat detections]
+
+- [Vulnerability assessment]
 
 - [Threat analysis]
  
