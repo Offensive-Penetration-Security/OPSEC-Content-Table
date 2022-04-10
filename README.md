@@ -4,7 +4,7 @@
 - [Application scanning] 
 ```
 
-### - - - All *topics*
+### All *topics*
 
 ```json
 SQL injection
@@ -30,7 +30,7 @@ WebSockets
 Information disclosure
 File upload vulnerabilities
 ```
-
+-----------------------------------
 ```json
 - [Threat detections]
 
